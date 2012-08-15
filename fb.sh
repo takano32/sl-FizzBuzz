@@ -1,2 +1,2 @@
-/usr/bin/env slsh fb.s
+/usr/bin/env slsh fb.sl
 
